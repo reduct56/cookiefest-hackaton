@@ -2,7 +2,6 @@
 import PySimpleGUI as sg
 
 # Обработка данных
-import pandas as pd
 from data_processing import load_data, prepare_tfidf_matrix, batch_search, save_to_excel
 
 # Настройка темы для PySimpleGUI
