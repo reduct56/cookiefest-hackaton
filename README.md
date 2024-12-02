@@ -22,6 +22,11 @@
   git clone https://github.com/reduct56/cookiefest-hackaton
 ```
 
+Переход в корневую папку программы
+```bash
+  cd cookiefest-hackaton
+```
+
 Установка библиотек
 ```bash
   pip install -r requirements.txt
@@ -29,7 +34,7 @@
 
 Запуск программы
 ```bash
-  python [path-to-project]/source/main.py
+  python source/main.py
 ```
 
 
