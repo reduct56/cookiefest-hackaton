@@ -71,7 +71,7 @@
 
 - Даниил [@daniilgricaev](https://www.github.com/daniilgricaev) | tg: @daniil_gricaev
 
-- Комилжон [@Kamaznaut](https://www.github.com/binequation) | tg: @Kamaznaut
+- Комилжон [@Kamaznaut](https://www.github.com/kamaznaut) | tg: @Kamaznaut
 
 - Константин [@roguenaf](https://www.github.com/roguenaf) | tg: @kostyuganl
 
